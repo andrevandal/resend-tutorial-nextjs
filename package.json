@@ -1,0 +1,19 @@
+{
+  "name": "with-nextjs-typescript",
+  "private": true,
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@react-email/components": "^0.0.7",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "resend": "latest1"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}
